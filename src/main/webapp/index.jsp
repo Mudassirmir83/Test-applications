@@ -28,8 +28,8 @@
         <th bgcolor="yellow">
 <table  width ="100%">
 <tr>
-         <th width = 50%> age2</th>
-         <th width = 50%>Age3</th>
+         <th width = 50% background='dymmy.png></th>
+         <th width = 50% background='dymmy.png'></th>
 </tr>
 <tr>
          <th width = 50%>Age4</th>
@@ -39,7 +39,7 @@
        </th>
      </tr>
 
-                     </table>
+</table
 
 </th>
 <th width ="30%" bgcolor="green"></th>

@@ -39,7 +39,7 @@
        </th>
      </tr>
 
-</table
+                     </table>
 
 </th>
 <th width ="30%" bgcolor="green"></th>

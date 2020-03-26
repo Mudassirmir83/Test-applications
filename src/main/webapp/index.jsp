@@ -28,8 +28,8 @@
         <th bgcolor="yellow">
 <table  width ="100%">
 <tr>
-                     <th width = 50%> <img src= "dymmy.png"/> </th>
-                     <th width = 50%> <img src= "dymmy.png"/> </th>
+                     <th width = 50%> <p><img src= "dymmy.png"/></p> </th>
+                     <th width = 50%> <p> <img src= "dymmy.png"/> </p></th>
 </tr>
 <tr>
          <th width = 50%>Age4</th>

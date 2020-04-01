@@ -1,0 +1,16 @@
+pipeline{
+	agent any
+stages{
+	stage ('compile'){
+		steps{
+		echo "in compile step"
+		}
+ }
+ stage('build'){
+ steps{
+ echo 'in build stage'
+ }
+ }
+
+}
+	}
